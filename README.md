@@ -5,3 +5,4 @@ new
 - orange
 - mango
 - grape
+- strawberry
