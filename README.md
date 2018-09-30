@@ -6,3 +6,8 @@ new
 - mango
 - grape
 - strawberry
+
+## phones
+- vivo
+- samsung
+- moto
